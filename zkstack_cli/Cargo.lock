@@ -6576,7 +6576,7 @@ dependencies = [
 
 [[package]]
 name = "zkstack"
-version = "0.1.2"
+version = "0.2.0"
 dependencies = [
  "anyhow",
  "chrono",
@@ -6622,7 +6622,7 @@ dependencies = [
 
 [[package]]
 name = "zkstack_cli_common"
-version = "0.1.2"
+version = "0.2.0"
 dependencies = [
  "anyhow",
  "async-trait",
@@ -6651,7 +6651,7 @@ dependencies = [
 
 [[package]]
 name = "zkstack_cli_config"
-version = "0.1.2"
+version = "0.2.0"
 dependencies = [
  "anyhow",
  "clap",
@@ -6675,14 +6675,14 @@ dependencies = [
 
 [[package]]
 name = "zkstack_cli_git_version_macro"
-version = "0.1.2"
+version = "0.2.0"
 dependencies = [
  "chrono",
 ]
 
 [[package]]
 name = "zkstack_cli_types"
-version = "0.1.2"
+version = "0.2.0"
 dependencies = [
  "clap",
  "ethers",
