@@ -4771,7 +4771,7 @@ dependencies = [
 
 [[package]]
 name = "prover_cli"
-version = "18.0.0"
+version = "18.1.0"
 dependencies = [
  "anyhow",
  "assert_cmd",
@@ -4804,7 +4804,7 @@ dependencies = [
 
 [[package]]
 name = "prover_version"
-version = "18.0.0"
+version = "18.1.0"
 dependencies = [
  "zksync_prover_fri_types",
 ]
@@ -8234,7 +8234,7 @@ dependencies = [
 
 [[package]]
 name = "zksync_circuit_prover"
-version = "18.0.0"
+version = "18.1.0"
 dependencies = [
  "anyhow",
  "async-trait",
@@ -8264,7 +8264,7 @@ dependencies = [
 
 [[package]]
 name = "zksync_circuit_prover_service"
-version = "18.0.0"
+version = "18.1.0"
 dependencies = [
  "anyhow",
  "async-trait",
@@ -8673,7 +8673,7 @@ dependencies = [
 
 [[package]]
 name = "zksync_proof_fri_compressor"
-version = "18.0.0"
+version = "18.1.0"
 dependencies = [
  "anyhow",
  "async-trait",
@@ -8768,7 +8768,7 @@ dependencies = [
 
 [[package]]
 name = "zksync_prover_autoscaler"
-version = "18.0.0"
+version = "18.1.0"
 dependencies = [
  "anyhow",
  "async-trait",
@@ -8805,7 +8805,7 @@ dependencies = [
 
 [[package]]
 name = "zksync_prover_dal"
-version = "18.0.0"
+version = "18.1.0"
 dependencies = [
  "sqlx",
  "strum",
@@ -8815,7 +8815,7 @@ dependencies = [
 
 [[package]]
 name = "zksync_prover_fri"
-version = "18.0.0"
+version = "18.1.0"
 dependencies = [
  "anyhow",
  "async-trait",
@@ -8849,7 +8849,7 @@ dependencies = [
 
 [[package]]
 name = "zksync_prover_fri_gateway"
-version = "18.0.0"
+version = "18.1.0"
 dependencies = [
  "anyhow",
  "async-trait",
@@ -8875,7 +8875,7 @@ dependencies = [
 
 [[package]]
 name = "zksync_prover_fri_types"
-version = "18.0.0"
+version = "18.1.0"
 dependencies = [
  "circuit_definitions",
  "serde",
@@ -8885,7 +8885,7 @@ dependencies = [
 
 [[package]]
 name = "zksync_prover_fri_utils"
-version = "18.0.0"
+version = "18.1.0"
 dependencies = [
  "anyhow",
  "regex",
@@ -8921,7 +8921,7 @@ dependencies = [
 
 [[package]]
 name = "zksync_prover_job_monitor"
-version = "18.0.0"
+version = "18.1.0"
 dependencies = [
  "anyhow",
  "async-trait",
@@ -8943,7 +8943,7 @@ dependencies = [
 
 [[package]]
 name = "zksync_prover_job_processor"
-version = "18.0.0"
+version = "18.1.0"
 dependencies = [
  "anyhow",
  "async-trait",
@@ -8958,7 +8958,7 @@ dependencies = [
 
 [[package]]
 name = "zksync_prover_keystore"
-version = "18.0.0"
+version = "18.1.0"
 dependencies = [
  "anyhow",
  "bincode",
@@ -9078,7 +9078,7 @@ dependencies = [
 
 [[package]]
 name = "zksync_vk_setup_data_generator_server_fri"
-version = "18.0.0"
+version = "18.1.0"
 dependencies = [
  "anyhow",
  "bincode",
@@ -9184,7 +9184,7 @@ dependencies = [
 
 [[package]]
 name = "zksync_witness_generator"
-version = "18.0.0"
+version = "18.1.0"
 dependencies = [
  "anyhow",
  "async-trait",
@@ -9222,7 +9222,7 @@ dependencies = [
 
 [[package]]
 name = "zksync_witness_vector_generator"
-version = "18.0.0"
+version = "18.1.0"
 dependencies = [
  "anyhow",
  "async-trait",
